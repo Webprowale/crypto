@@ -10,11 +10,11 @@ const Register = () => {
         </h1>
       </div>
       <div className="heading">
-        <h3>Welcome back!</h3>
+        <h3>Create an account</h3>
         <h6>
-          New to velox?
+          Already have an account?
           <span>
-            <Link>Create an account</Link>
+            <Link to='/login'> Sign in</Link>
           </span>
         </h6>
       </div>
@@ -31,11 +31,9 @@ const Register = () => {
         <input type="password" placeholder="password" /><br />
         <label htmlFor="password">Confirm Password:</label>
         <input type="password" placeholder="password" />
-        <div className="no-password">
-          <Link>Can't remember password?</Link>
-        </div>
+        
         <button className="butt" type="submit">
-          Sign in
+          Sign up
         </button>
       </form>
     </div>

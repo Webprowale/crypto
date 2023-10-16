@@ -1,7 +1,5 @@
 import React from "react";
 import './WhatWeDo.css'
-import Banner from "../../assets/iphone-Banners.png"
-import Hrro from "../../assets/hero.png"
 const WhatWeDo = () => {
     return ( 
         <div className="section">
