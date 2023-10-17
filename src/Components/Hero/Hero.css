@@ -60,4 +60,11 @@
     .images img{
         height: 300px;
     }
+ .details button{
+    width: 250px;
+    font-size: 20px;
+ }
+ .details h4{
+    font-size: 30px;
+ }
 }

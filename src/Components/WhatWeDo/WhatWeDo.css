@@ -56,17 +56,21 @@
     .what_we_do .card_1{
         grid-column: 1/5;
         grid-row: 1/2;
+        padding: 40px 20px;
     }
     .what_we_do .card_2{
         grid-column: 1/5;
         grid-row: 2/3;
+        padding: 40px 20px;
     }
     .what_we_do .card_3{
         grid-column: 1/5;
         grid-row: 3/4;
+        padding: 40px 20px;
     }
     .what_we_do .card_4{
         grid-column: 1/5;
         grid-row: 4/5;
+        padding: 40px 20px;
     }
 }

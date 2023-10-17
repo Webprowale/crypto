@@ -1,6 +1,7 @@
 import React from "react";
 import './MoreDetails.css'
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTelegram } from '@fortawesome/free-brands-svg-icons'
 const MoreDetails = () => {
     return ( 
         <div className="more_details col-md-12">
@@ -13,7 +14,7 @@ const MoreDetails = () => {
                 <p>The Boys at Feloz is a Fast Growing Educational And Interaction Community of <br /> The Crypto Community</p>
             </div>
             <button className="bttn">
-                Join Telegram Channel
+            <FontAwesomeIcon icon={faTelegram} size="lg" color="white" /> Join Telegram Channel
             </button>
         </div>
      );

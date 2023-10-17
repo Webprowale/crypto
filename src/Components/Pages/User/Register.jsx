@@ -19,10 +19,10 @@ const Register = () => {
         </h6>
       </div>
       <form>
-        <label htmlFor="email">First Name:</label>
+        <label htmlFor="first-name">First Name:</label>
         <input type="text" placeholder="Enter Your First Name" />
         <br />
-        <label htmlFor="password">Surname:</label>
+        <label htmlFor="surname">Surname:</label>
         <input type="text" placeholder="Enter Your Surname" /><br />
         <label htmlFor="email">Email Address:</label>
         <input type="email" placeholder="Enter Your Email" />

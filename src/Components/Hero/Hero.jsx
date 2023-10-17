@@ -6,7 +6,7 @@ const Hero = () => {
     return ( 
         <div className="hero p-5">
         <div className="details">
-            <h4>Buy and Sell <br /><span>Cryptocurrency</span><br />easily with Bank Transfer </h4>
+            <h4>Buy and Sell <br /><span>Cryptocurrency</span><br />Easily with Bank Transfer </h4>
             <button><Link to='/login' >Trade Crypto</Link></button>
         </div>
          <div className="images">

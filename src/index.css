@@ -58,8 +58,9 @@ button {
   color: var(--text-color);
 }
 button:hover {
-  background-color: var(--main-hover);
+  background-color: gray;
   color: #1c1a1a;
+  border: none;
 }
 button:focus,
 button:focus-visible {

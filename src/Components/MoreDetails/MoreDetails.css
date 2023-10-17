@@ -33,7 +33,8 @@
 }
 .our_text p{
     font-size: 16px;
-    color: #a79898;
+    color: gray;
+    font-weight: 500;
 }
 .bttn{
     background-color: transparent;
