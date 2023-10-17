@@ -7,9 +7,9 @@ const Footer = () => {
         <div className="footer container">
             <h4>Contact</h4>
             <div className="row justify-content-center align-items-center mb-5">
-                <div className="col-md-6">
+                <div className="col-md-6 mb-3">
                     <a href="#"><h6>Support@velox.com.ng</h6></a>
-                    <div className="social">
+                    <div className="social mb-1">
                    <a href="#"> <FontAwesomeIcon icon={faInstagram} size="3x" color="#FF0060" className="mx-2" /></a>
                    <a href="#"><FontAwesomeIcon icon={faTwitter}  size="3x" color="#FF0060" className="mx-2"/></a>
                     </div>
