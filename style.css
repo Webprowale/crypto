@@ -90,7 +90,7 @@ button:focus-visible {
 }
 @media (max-width:430px) {
     h1{
-        font-size: 14px;
+        font-size: 23px;
         margin-top: 20px;
     }
 }
